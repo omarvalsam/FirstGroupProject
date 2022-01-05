@@ -11,5 +11,5 @@ We have created a fun project that is used for gamers, specifically Apex legends
 They can use this app to list basic stats to show them what they lack or need to improve. 
 
 
-#Github repo is located at--> https://github.com/CherMill93/InteractiveFrontEndProject
-#Website URL :https://chermill93.github.io/InteractiveFrontEndProject/
+# Github repo is located at--> https://github.com/CherMill93/InteractiveFrontEndProject
+# Website URL :https://chermill93.github.io/InteractiveFrontEndProject/
